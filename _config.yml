@@ -1,8 +1,4 @@
 title: "Remote theme example"
 remote_theme: pmarsceill/just-the-docs
-<<<<<<< HEAD
-color_scheme: "light"
-=======
 color_scheme: light
->>>>>>> 59ca153c05b74203544c7ae8fdf62334e81addea
 search_enabled: false
