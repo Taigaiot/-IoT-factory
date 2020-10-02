@@ -1,4 +1,5 @@
 title: "Remote theme example"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "light"
+# Color scheme supports "light" (default) and "dark"
+color_scheme: light
 search_enabled: false
